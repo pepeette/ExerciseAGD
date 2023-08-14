@@ -1,0 +1,9 @@
+pandas
+openpyxl
+datetime
+dash
+plotly
+flask-caching
+pandasai
+dash_bootstrap_components
+scikit-learn
